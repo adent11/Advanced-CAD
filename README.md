@@ -40,3 +40,6 @@ In this assignment I made a gear box. I started by making spacers and axles, eac
 ## Stress Analysis
 #### Included Files
 <a href="StressAnalysis/Arm.SLDPRT">Arm.SLDPRT</a><br/>
+
+
+<IMG SRC="Media/StressAnalysisPic.PNG.gif"  width="643" height="250">
