@@ -35,6 +35,9 @@ In this assignment I made a gear box. I started by making spacers and axles, eac
 <a href="MotionStudy/servoArm.SLDPRT">servoArm.SLDPRT</a><br/>
 <a href="MotionStudy/servoMount.SLDPRT">servoMount.SLDPRT</a><br/>
 <a href="MotionStudy/shelf.SLDPRT">shelf.SLDPRT</a><br/>
+<br/>
+In this assignment I learned how to make a motion study. I started by making all of the parts, and assembling them. I made a motion study in which the servo turns and raises a shelf.
+<br/><br/>
 <IMG SRC="Media/MotionStudiesGif.gif"  width="300" height="250">
   
 ## Stress Analysis
