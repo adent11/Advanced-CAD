@@ -21,7 +21,7 @@ In this assignment I made reusable gears using equations. Each dimension can be 
 <a href="Gears/rootGear.SLDPRT">rootGear.SLDPRT</a><br/>
 <a href="Gears/spacer.SLDPRT">spacer.SLDPRT</a><br/>
 <br/>
-In this assignment I made a gear box. I started by making spacers and axles, each with configurations to increase efficiency. Then, I made three subassemblies of each axle, and a frame to hold them together. The final touch was making a knob to turn the gears with and then mating it all together. I came back to this assignment after doing Motion Study to animate the gears turning. <br/>
+In this assignment I made a gear box. I started by making spacers and axles, each with configurations to decrease time spent. Then, I used the gears from the previous assignment to make three subassemblies of each axle, and a frame to hold them together. The final touch was making a knob to turn the gears with and then mating it all together. After doing the Motion Study assignment, I came back and make a motion study to turn the gears. <br/>
 <br/>
 <IMG SRC="Media/GearboxGif.gif"  width="300" height="208"><br/>
 
