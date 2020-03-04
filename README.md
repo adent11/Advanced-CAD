@@ -44,5 +44,6 @@ In this assignment I learned how to make a motion study. I started by making all
 #### Included Files
 <a href="StressAnalysis/Arm.SLDPRT">Arm.SLDPRT</a><br/>
 <br/>
-In this assignment I mad an arm thingy and used the stress analysis tool to determine how it would perform under a force. Using that knowledge I redesigned it to be more robust so it could withstand the force.
+In this assignment I mad an arm thingy and used the stress analysis tool to determine how it would perform under a force. Using that knowledge I redesigned it to be more robust so it could withstand the force applied.
+<br/><br/>
 <IMG SRC="Media/StressAnalysisPic.PNG"  width="643" height="250">
