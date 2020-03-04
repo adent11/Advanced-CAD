@@ -42,4 +42,4 @@ In this assignment I made a gear box. I started by making spacers and axles, eac
 <a href="StressAnalysis/Arm.SLDPRT">Arm.SLDPRT</a><br/>
 
 
-<IMG SRC="Media/StressAnalysisPic.PNG.gif"  width="643" height="250">
+<IMG SRC="Media/StressAnalysisPic.PNG"  width="643" height="250">
