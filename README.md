@@ -36,7 +36,7 @@ In this assignment I made a gear box. I started by making spacers and axles, eac
 <a href="MotionStudy/servoMount.SLDPRT">servoMount.SLDPRT</a><br/>
 <a href="MotionStudy/shelf.SLDPRT">shelf.SLDPRT</a><br/>
 <br/>
-In this assignment I learned how to make a motion study. I started by making all of the parts, and assembling them. I made a motion study in which the servo turns and raises a shelf.
+In this assignment I learned how to make a motion study. I started by making all of the parts, and assembling them. I then made a motion study in which the servo turns and raises a shelf.
 <br/><br/>
 <IMG SRC="Media/MotionStudiesGif.gif"  width="300" height="250">
   
@@ -44,6 +44,6 @@ In this assignment I learned how to make a motion study. I started by making all
 #### Included Files
 <a href="StressAnalysis/Arm.SLDPRT">Arm.SLDPRT</a><br/>
 <br/>
-In this assignment I mad an arm thingy and used the stress analysis tool to determine how it would perform under a force. Using that knowledge I redesigned it to be more robust so it could withstand the force applied.
+In this assignment I mad an arm thingy and used the stress analysis tool to determine how it would perform under a force. Using that knowledge I added a layer in the middle in order to make the arm more robust so it could withstand the force applied.
 <br/><br/>
 <IMG SRC="Media/StressAnalysisPic.PNG"  width="643" height="250">
